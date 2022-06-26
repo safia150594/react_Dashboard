@@ -1,0 +1,11 @@
+.bg-score{
+    background: #FBFBFB;
+}
+.graph-icon{
+    height: 60px;
+    width: 50px;
+    object-fit: cover;
+}
+.text-score{
+    color: #74798C ;
+}

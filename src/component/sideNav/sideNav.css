@@ -1,0 +1,18 @@
+.side-nav-icon-img {
+    object-fit: cover;
+    height: 40px;
+    width: 40px;
+    margin: 10px 0px;
+}
+.side-nav-w{
+    width: 65px;
+    height: 100%;
+    padding-top: 100px;
+}
+/* .side-nav-icon{
+
+} */
+.copyRights{
+    transform: rotate(180deg);
+    writing-mode: vertical-rl;
+}

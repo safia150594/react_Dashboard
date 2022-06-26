@@ -1,0 +1,55 @@
+/* .side-nav-home{
+    height: calc(100vh - 60px);
+    background-color: black;
+} */
+.bg-graph {
+    background: #FBFBFB;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.dotR {
+    height: 8px;
+    width: 8px;
+    background-color: #E60000;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.dotB {
+    height: 8px;
+    width: 8px;
+    background-color: #282D30;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.chart-heading-size {
+    font-size: 15px;
+}
+
+.chart-axis-size {
+    font-size: 14px;
+}
+
+.line-chart {
+    background-color: #FF0000;
+    padding: 5px;
+}
+
+.line-graph {
+    position: relative;
+}
+
+.line-graph-heading {
+    position: absolute;
+    left: 0px;
+    top:30%;
+    color: #FFFFFF;
+}
+.radar-graph{
+    background: #282D30;
+}
+.progrss-graph{
+    background-color: #FBFBFB;
+}
